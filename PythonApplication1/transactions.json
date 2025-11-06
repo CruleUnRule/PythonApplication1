@@ -1,0 +1,14 @@
+[
+  {
+    "amount": 123.0,
+    "category": "123",
+    "date": "2025-11-06",
+    "description": "123"
+  },
+  {
+    "amount": 123.0,
+    "category": "123123",
+    "date": "2025-11-06",
+    "description": ""
+  }
+]
